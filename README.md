@@ -1,4 +1,4 @@
-# Klotz
+![klotz_logo](https://user-images.githubusercontent.com/22248912/34973702-64a00844-fa89-11e7-95af-23f19164a1df.jpg)
 
 Klotz is a small wooden cube that prints informations on a LCD Color screen.
 
