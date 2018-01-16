@@ -33,4 +33,10 @@ This project was been made as a school project at 42 in a period of 6 months, fr
 
 Grade : 130/100
 
+Realized by :
+
+	- Patrick Heutschi (Mechanics and Design)
+	- Michael Heutschi (Electronics and Code)
+	- Antoine Gouby (Electronics and Code)
+
 Thanks to 42 and Gregoire (our teacher).
