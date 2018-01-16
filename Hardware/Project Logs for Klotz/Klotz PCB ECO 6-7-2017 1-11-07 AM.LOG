@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=PERIPH Member=J6
+Change Component Footprint: Designator=C1 Old Footprint=Resistor New Footprint=CAPACITOR
+Change Component Footprint: Designator=C10 Old Footprint=Resistor New Footprint=CAPACITOR
+Change Component Footprint: Designator=C11 Old Footprint=Resistor New Footprint=CAPACITOR
+Change Component Footprint: Designator=C12 Old Footprint=Resistor New Footprint=CAPACITOR
+Added Member To Class: ClassName=PERIPH Member=Component J4 Connector MPU-6050
+Added Member To Class: ClassName=PERIPH Member=Component J5 AD22103KTZ

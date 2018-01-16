@@ -1,0 +1,43 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+J5         TEMP                   39.6mm        7.86mm        39.6mm        10.4mm        39.6mm        5.32mm  B        270.00 AD22103KTZ     
+J3         BUZZER                 39.5mm        36.7mm        39.5mm        36.7mm       35.69mm        36.7mm  B        360.00 KPEG242        
+C1         CAPACITOR              34.3mm        22.9mm        35.2mm        22.9mm        35.2mm        22.9mm  T        180.00 100nF          
+C6         CAPACITOR              24.2mm         9.2mm        24.2mm         8.3mm        24.2mm         8.3mm  T         90.00 100nF          
+C10        CAPACITOR              21.9mm          42mm        21.9mm        42.9mm        21.9mm        42.9mm  T        270.00 10uF           
+C9         CAPACITOR              34.3mm        20.8mm        35.2mm        20.8mm        35.2mm        20.8mm  T        180.00 1uF            
+C8         CAPACITOR              34.3mm        18.7mm        35.2mm        18.7mm        35.2mm        18.7mm  T        180.00 10uF           
+C5         CAPACITOR              34.3mm       29.05mm        35.2mm       29.05mm        35.2mm       29.05mm  T        180.00 100nF          
+C7         CAPACITOR              14.7mm      15.425mm        15.6mm      15.425mm        15.6mm      15.425mm  T        180.00 18pF           
+C4         CAPACITOR              14.8mm        10.1mm        15.7mm        10.1mm        15.7mm        10.1mm  T        180.00 18pF           
+C12        CAPACITOR              25.4mm        48.1mm        25.4mm        47.2mm        25.4mm        47.2mm  T         90.00 10uF           
+C11        CAPACITOR              21.9mm        45.9mm        21.9mm        46.8mm        21.9mm        46.8mm  T        270.00 4.7uF          
+C3         CAPACITOR              18.2mm          24mm        18.2mm        24.9mm        18.2mm        24.9mm  T        270.00 52pF           
+C2         CAPACITOR              18.2mm        18.5mm        18.2mm        17.6mm        18.2mm        17.6mm  T         90.00 52pF           
+R4         Resistor               18.2mm       12.75mm        18.2mm       11.85mm        18.2mm       11.85mm  T         90.00 1MOhm          
+R8         Resistor               23.7mm        33.1mm        23.7mm          34mm        23.7mm          34mm  T        270.00 1K             
+R5         Resistor               22.8mm          39mm        23.7mm          39mm        23.7mm          39mm  T        180.00 500K           
+R6         Resistor               21.6mm        33.1mm        21.6mm        32.2mm        21.6mm        32.2mm  T         90.00 1K             
+R3         Resistor                6.9mm        12.9mm         6.9mm          12mm         6.9mm          12mm  T         90.00 4.7k           
+R2         Resistor               34.3mm          25mm        35.2mm          25mm        35.2mm          25mm  T        180.00 1k             
+R1_BUT1    Resistor               34.3mm        13.8mm        35.2mm        13.8mm        35.2mm        13.8mm  T        180.00 10K            
+R1_BUT0    Resistor               10.4mm        10.1mm        11.3mm        10.1mm        11.3mm        10.1mm  T        180.00 10K            
+R7         Resistor               26.8mm          39mm        27.7mm          39mm        27.7mm          39mm  T        180.00 100K           
+Y2         OSC2                 16.125mm       12.75mm      16.125mm        13.5mm      16.125mm        13.5mm  T        270.00 32.768KHz      
+U2         REGULATEUR             25.3mm        44.1mm        25.3mm        44.1mm      26.675mm        43.2mm  T        180.00 RT8008GB       
+U1         PIC32                  25.8mm        20.8mm        25.8mm        20.8mm        21.1mm      29.055mm  T          0.00 PIC32MX170F256B
+Q1_LS1     TRANSISTOR             27.5mm        33.2mm        27.5mm        32.2mm       28.45mm        34.2mm  T        180.00 BSS84          
+Q1_LS0     TRANSISTOR             31.7mm        33.2mm        31.7mm        32.2mm       32.65mm        34.2mm  T        180.00 BSS84          
+J1_BUT1    Header_2_BUTTON        44.3mm        9.17mm        44.3mm         7.9mm        44.3mm         7.9mm  B         90.00 Header 2       
+J1_BUT0    Header_2_BUTTON         3.7mm        9.13mm         3.7mm        10.4mm         3.7mm        10.4mm  B        270.00 Header 2       
+P2         Header_2_BATTERY       15.53mm        46.4mm        16.8mm        46.4mm        16.8mm        46.4mm  B        180.00 Header 2       
+P1         Header_2_BATTERY        9.53mm        46.4mm        10.8mm        46.4mm        10.8mm        46.4mm  B        180.00 Header 2       
+L1         Inductor               30.8mm       45.84mm        30.8mm        43.3mm        30.8mm        43.3mm  B         90.00 2.2uH          
+J6         DEBUG                   4.2mm       24.45mm         5.4mm        30.8mm         5.4mm        30.8mm  B        270.00 Debugger       
+D3         Schottky             15.565mm        42.6mm        17.7mm        42.6mm        17.7mm        42.6mm  T        180.00 STPS1L30U      
+D2         Schottky             15.565mm        37.8mm        17.7mm        37.8mm        17.7mm        37.8mm  T        180.00 STPS1L30U      
+D1         Schottky                8.9mm      41.765mm         8.9mm        43.9mm         8.9mm        43.9mm  T        270.00 STPS1L30U      
+J4         GYROSCOPE             42.07mm       19.84mm        40.8mm        20.8mm       43.34mm        13.8mm  B        270.00 Connector MPU-6050
+Y1         OSC1                   13.5mm       24.31mm        13.5mm       26.75mm        13.5mm       26.75mm  T        270.00 8MHz           
+J2         SCREEN              24.3325mm        9.05mm       17.07mm          11mm       31.57mm          11mm  B        360.00 TFT Connector  
+

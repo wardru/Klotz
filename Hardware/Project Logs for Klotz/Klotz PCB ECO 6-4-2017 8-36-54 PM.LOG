@@ -1,0 +1,14 @@
+Change Physical Footprint: Designator=J1 Old Footprint=DEBUG New Footprint=DEBUG
+Change Physical Footprint: Designator=J2 Old Footprint=TEMP New Footprint=TEMP
+Change Physical Footprint: Designator=J3 Old Footprint=GYROSCOPE New Footprint=GYROSCOPE
+Change Physical Footprint: Designator=J4 Old Footprint=SCREEN New Footprint=SCREEN
+Change Physical Footprint: Designator=J5 Old Footprint=BUTTON New Footprint=BUTTON
+Change Physical Footprint: Designator=J6 Old Footprint=BUTTON New Footprint=BUTTON
+Change Physical Footprint: Designator=J7 Old Footprint=BUZZER New Footprint=BUZZER
+Change Physical Footprint: Designator=L1 Old Footprint=Inductor New Footprint=Inductor
+Change Physical Footprint: Designator=P1 Old Footprint=POWER New Footprint=POWER
+Change Physical Footprint: Designator=P2 Old Footprint=POWER New Footprint=POWER
+Change Physical Footprint: Designator=U4 Old Footprint=TRANSISTOR New Footprint=TRANSISTOR
+Change Physical Footprint: Designator=U5 Old Footprint=TRANSISTOR New Footprint=TRANSISTOR
+Change Physical Footprint: Designator=Y1 Old Footprint=OSC1 New Footprint=OSC1
+Change Physical Footprint: Designator=Y2 Old Footprint=OSC2 New Footprint=OSC2

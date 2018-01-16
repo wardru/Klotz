@@ -1,0 +1,50 @@
+Change Component DesignItemId : Designator=P1 Old DesignItemId=Battery New DesignItemId=Header 2
+Change Component DesignItemId : Designator=P2 Old DesignItemId=Battery New DesignItemId=Header 2
+Change Component DesignItemId : Designator=J1_BUT0 Old DesignItemId=Switch New DesignItemId=Header 2
+Change Component DesignItemId : Designator=J1_BUT1 Old DesignItemId=Switch New DesignItemId=Header 2
+Change Component Comment : Designator=P1 Old Comment=Battery New Comment=Header 2
+Change Component Comment : Designator=P2 Old Comment=Battery New Comment=Header 2
+Change Component Comment : Designator=J1_BUT0 Old Comment=BUT Connector New Comment=Header 2
+Change Component Comment : Designator=J1_BUT1 Old Comment=BUT Connector New Comment=Header 2
+Change Component Comment : Designator=D1 Old Comment=Diode New Comment=STPS1L30U
+Change Component Comment : Designator=D2 Old Comment=Diode New Comment=STPS1L30U
+Change Component Comment : Designator=D3 Old Comment=Diode New Comment=STPS1L30U
+Change Component Comment : Designator=J6 Old Comment=GYRO Connector New Comment=Connector MPU-6050
+Change Component Comment : Designator=L1 Old Comment=Inductor New Comment=2.2uH
+Change Component Comment : Designator=R6 Old Comment=Res1 New Comment=1K
+Change Component Comment : Designator=R8 Old Comment=Res1 New Comment=1K
+Change Component Comment : Designator=R7 Old Comment=Res1 New Comment=100K
+Change Component Comment : Designator=R5 Old Comment=Res1 New Comment=500K
+Change Component Designator: OldDesignator=J4 NewDesignator=J2
+Change Component Designator: OldDesignator=J5 NewDesignator=J3
+Change Component Designator: OldDesignator=J6 NewDesignator=J4
+Change Component Designator: OldDesignator=J7 NewDesignator=J5
+Change Component Designator: OldDesignator=J8 NewDesignator=J6
+Change Component Designator: OldDesignator=Q?_LS0 NewDesignator=Q1_LS0
+Change Component Designator: OldDesignator=Q?_LS1 NewDesignator=Q1_LS1
+Change Component Description : Designator=P1 Old Description= New Description=Header 2
+Change Component Description : Designator=P2 Old Description= New Description=Header 2
+Change Component Description : Designator=J1_BUT0 Old Description=BUT Connector New Description=Header 2
+Change Component Description : Designator=J1_BUT1 Old Description=BUT Connector New Description=Header 2
+Change Component Description : Designator=D1 Old Description=Default Diode New Description=Diode Schottky
+Change Component Description : Designator=D2 Old Description=Default Diode New Description=Diode Schottky
+Change Component Description : Designator=D3 Old Description=Default Diode New Description=Diode Schottky
+Change Component Description : Designator=J4 Old Description=GYRO Connector New Description=Connector MPU-6050
+Change Component Description : Designator=U2 Old Description=Regulateur a decoupage ajustable New Description=Voltage Regulator
+Change Component Description : Designator=J5 Old Description=Temperature sensor New Description=Temp sensor
+Change Net Name : Old Net Name=NetJ4_22 New Net Name=NetJ2_22
+Change Net Name : Old Net Name=NetJ4_24 New Net Name=NetJ2_24
+Change Net Name : Old Net Name=NetJ4_25 New Net Name=NetJ2_25
+Change Net Name : Old Net Name=NetJ4_26 New Net Name=NetJ2_26
+Change Net Name : Old Net Name=NetJ4_27 New Net Name=NetJ2_27
+Change Net Name : Old Net Name=NetJ5_1 New Net Name=NetJ3_1
+Change Net Name : Old Net Name=NetJ6_5 New Net Name=NetJ4_5
+Change Net Name : Old Net Name=NetJ6_6 New Net Name=NetJ4_6
+Change Net Name : Old Net Name=NetJ7_2 New Net Name=NetJ5_2
+Added Room: Name=BUT0
+Added Room: Name=BUT1
+Added Room: Name=LS0
+Added Room: Name=LS1
+Added Room: Name=PERIPH
+Added Room: Name=PIC32
+Added Room: Name=POWER

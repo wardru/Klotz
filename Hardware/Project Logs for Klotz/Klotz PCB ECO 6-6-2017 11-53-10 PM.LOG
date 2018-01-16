@@ -1,0 +1,35 @@
+Removed Member From Class: ClassName=PERIPH Member=C2
+Removed Member From Class: ClassName=POWER Member=C7
+Removed Member From Class: ClassName=POWER Member=C8
+Removed Member From Class: ClassName=PIC32 Member=C12
+Removed Member From Class: ClassName=PIC32 Member=R6
+Change Component Comment : Designator=C2 Old Comment=16pF New Comment=52pF
+Change Component Comment : Designator=C3 Old Comment=16pF New Comment=52pF
+Change Component Comment : Designator=J6 Old Comment=Connector MPU-6050 New Comment=GYRO Connector
+Change Component Comment : Designator=J4 Old Comment=MCT0144C6W128128PML New Comment=TFT Connector
+Change Component Comment : Designator=R2 Old Comment=Res1 New Comment=1k
+Change Component Comment : Designator=R3 Old Comment=Res1 New Comment=4.7k
+Change Component Comment : Designator=R1_BUT0 Old Comment=Res1 New Comment=10K
+Change Component Comment : Designator=R1_BUT1 Old Comment=Res1 New Comment=10K
+Change Component Comment : Designator=Y1 Old Comment=XTAL New Comment=8MHz
+Change Component Comment : Designator=Y2 Old Comment=XTAL New Comment=32.768KHz
+Change Component Designator: OldDesignator=T1_LS0 NewDesignator=Q?_LS0
+Change Component Designator: OldDesignator=T1_LS1 NewDesignator=Q?_LS1
+Change Component Description : Designator=J7 Old Description=Capteur de temperature New Description=Temperature sensor
+Change Component Description : Designator=J6 Old Description=Connector MPU-6050 New Description=GYRO Connector
+Change Component Description : Designator=J8 Old Description=Debugger New Description=DEB Connector
+Change Component Description : Designator=J4 Old Description=Ecran LCD New Description=TFT Connector
+Change Component Description : Designator=U1 Old Description=Microcontroleur New Description=PIC32
+Added Member To Class: ClassName=PERIPH Member=Component C1 100nF
+Added Member To Class: ClassName=PIC32 Member=Component C4 18pF
+Added Member To Class: ClassName=PIC32 Member=Component C6 100nF
+Added Member To Class: ClassName=POWER Member=Component C10 10uF
+Added Member To Class: ClassName=POWER Member=Component C12 10uF
+Added Member To Class: ClassName=PIC32 Member=Component R4 Res1
+Added Room: Name=BUT0
+Added Room: Name=BUT1
+Added Room: Name=LS0
+Added Room: Name=LS1
+Added Room: Name=PERIPH
+Added Room: Name=PIC32
+Added Room: Name=POWER

@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=V3P3 Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=V3P3 Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=J4-
+Removed Pin From Net: NetName=GND Pin=J4-
+Removed Member From Class: ClassName=PIC32 Member=C7
+Removed Member From Class: ClassName=PIC32 Member=C13
+Change Component Comment : Designator=C14 Old Comment=0.1uF New Comment=100nF
+Change Component Comment : Designator=C5 Old Comment=12.5pF New Comment=18pF
+Change Component Comment : Designator=C6 Old Comment=12.5pF New Comment=18pF
+Change Component Comment : Designator=J5 Old Comment=Switch New Comment=BUT Connector
+Change Component Comment : Designator=J6 Old Comment=Switch New Comment=BUT Connector
+Change Component Designator: OldDesignator=J5 NewDesignator=J5_BUT0
+Change Component Designator: OldDesignator=J6 NewDesignator=J5_BUT1
+Change Component Designator: OldDesignator=R1 NewDesignator=R1_BUT0
+Change Component Designator: OldDesignator=R9 NewDesignator=R1_BUT1
+Change Component Designator: OldDesignator=U4 NewDesignator=T1_LS1
+Change Component Designator: OldDesignator=U5 NewDesignator=T1_LS0
+Added Member To Class: ClassName=PERIPH Member=Component J2 AD22103KTZ
+Added Member To Class: ClassName=PERIPH Member=Component J3 Connector MPU-6050
+Added Member To Class: ClassName=BUT0 Member=Component J5_BUT0 (J5) BUT Connector
+Added Member To Class: ClassName=BUT1 Member=Component J5_BUT1 (J5) BUT Connector
+Added Member To Class: ClassName=BUT0 Member=Component R1_BUT0 (R1) Res1
+Added Member To Class: ClassName=BUT1 Member=Component R1_BUT1 (R1) Res1
+Added Member To Class: ClassName=LS0 Member=Component T1_LS0 (T1) BSS84
+Added Member To Class: ClassName=LS1 Member=Component T1_LS1 (T1) BSS84
+Added Member To Class: ClassName=PIC32 Member=Component Y1 XTAL
+Added Room: Name=BUT0
+Added Room: Name=BUT1
+Added Room: Name=LS0
+Added Room: Name=LS1
+Added Room: Name=PERIPH
+Added Room: Name=PIC32
+Added Room: Name=POWER

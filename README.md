@@ -1,4 +1,4 @@
-#Klotz
+# Klotz
 
 Klotz is a small wooden cube that prints informations on a LCD Color screen.
 
@@ -40,3 +40,6 @@ Realized by :
 	- Antoine Gouby (Electronics and Code)
 
 Thanks to 42 and Gregoire (our teacher).
+
+![pcb_screeshots](https://user-images.githubusercontent.com/22248912/34972869-ac1a7b28-fa84-11e7-9444-69eddd5b7bf7.jpeg)
+![pcb2d_screenshot](https://user-images.githubusercontent.com/22248912/34972870-ac34e120-fa84-11e7-862c-26e60aa98500.jpeg)

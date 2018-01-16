@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=P1 Old Footprint=Header 2 pins New Footprint=Header 2 BATTERY
+Change Component Footprint: Designator=P2 Old Footprint=Header 2 pins New Footprint=Header 2 BATTERY
+Change Component Footprint: Designator=J1_BUT0 Old Footprint=Header 2 pins New Footprint=Header 2 BUTTON
+Change Component Footprint: Designator=J1_BUT1 Old Footprint=Header 2 pins New Footprint=Header 2 BUTTON

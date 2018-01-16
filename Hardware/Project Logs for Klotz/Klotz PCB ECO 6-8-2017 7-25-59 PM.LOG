@@ -1,0 +1,4 @@
+Change Physical Footprint: Designator=J1_BUT0 Old Footprint=Header 2 BUTTON New Footprint=Header 2 BUTTON
+Change Physical Footprint: Designator=J1_BUT1 Old Footprint=Header 2 BUTTON New Footprint=Header 2 BUTTON
+Change Physical Footprint: Designator=P1 Old Footprint=Header 2 BATTERY New Footprint=Header 2 BATTERY
+Change Physical Footprint: Designator=P2 Old Footprint=Header 2 BATTERY New Footprint=Header 2 BATTERY

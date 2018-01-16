@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=J1_BUT0 Old Footprint=BUTTON New Footprint=Header 2 pins
+Change Component Footprint: Designator=J1_BUT1 Old Footprint=BUTTON New Footprint=Header 2 pins
+Change Component Footprint: Designator=P1 Old Footprint=POWER New Footprint=Header 2 pins
+Change Component Footprint: Designator=P2 Old Footprint=POWER New Footprint=Header 2 pins
+Added Room: Name=BUT0
+Added Room: Name=BUT1
+Added Room: Name=LS0
+Added Room: Name=LS1
+Added Room: Name=PERIPH
+Added Room: Name=PIC32
+Added Room: Name=POWER
