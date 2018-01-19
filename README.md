@@ -35,9 +35,9 @@ Grade : 130/100
 
 Realized by :
 
-	- Patrick Heutschi (Mechanics and Design)
-	- Michael Heutschi (Electronics and Code)
-	- Antoine Gouby (Electronics and Code)
+	- Patrick Heutschi (Mechanics / Design)
+	- Michael Heutschi (Code / Packaging construction / Beta testing)
+	- Antoine Gouby (Lead / Hardware / Code)
 
 Thanks to 42 and Gregoire (our teacher).
 
