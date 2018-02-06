@@ -41,6 +41,7 @@ Realized by :
 
 Thanks to 42 and Gregoire (our teacher).
 
+![klotz_picture](https://user-images.githubusercontent.com/22248912/35848666-3049f874-0b1f-11e8-8c36-a2433d1ca9a9.jpg)
 ![klotz_slide](https://user-images.githubusercontent.com/22248912/34973401-aef1137c-fa87-11e7-818a-8d755fb596e3.jpg)
 ![pcb_screeshots](https://user-images.githubusercontent.com/22248912/34972869-ac1a7b28-fa84-11e7-9444-69eddd5b7bf7.jpeg)
 ![pcb2d_screenshot](https://user-images.githubusercontent.com/22248912/34972870-ac34e120-fa84-11e7-862c-26e60aa98500.jpeg)
